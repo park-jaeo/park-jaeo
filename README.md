@@ -1,20 +1,50 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&animation=twinkling)
+
 ### Hi there 👋
 
 
-**park-jaeo/park-jaeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
-- 🔭 I’m currently working on ...
-  - Bucheon community college (graduation year)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+Teches / Hardware that I've used at least once
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/turtlebot3-000000?style=flat-square&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/esp32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi 4-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+</p>
+
+
+
+
+
+The skills working on
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub Actions-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Isaac Sim-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yolo-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+</p>
+
+techniques of interest
+
+
+
+The skills I want to expand in the future
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+</p>
+ 
+
 
