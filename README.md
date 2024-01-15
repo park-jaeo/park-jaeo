@@ -4,7 +4,10 @@
 
 
 
+<!--
+로고 사이트 : https://simpleicons.org/
 
+-->
 
 
 
@@ -45,6 +48,7 @@ techniques of interest
 The skills I want to expand in the future
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>
