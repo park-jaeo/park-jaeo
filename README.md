@@ -36,7 +36,6 @@ The skills working on
 
 <p align="left">
   <img src="https://img.shields.io/badge/Moveit2-22314E?style=flat-square&logo=ROS&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GitHub Actions-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Isaac Sim-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yolo-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 </p>
